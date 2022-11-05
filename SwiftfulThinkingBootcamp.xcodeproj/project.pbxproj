@@ -12,6 +12,7 @@
 		7EF950C6291711C5004FD577 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EF950C5291711C5004FD577 /* Assets.xcassets */; };
 		7EF950C9291711C5004FD577 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EF950C8291711C5004FD577 /* Preview Assets.xcassets */; };
 		7EF950D029171481004FD577 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EF950CF29171481004FD577 /* BindingBootcamp.swift */; };
+		7EF950D229171783004FD577 /* ConditionalStatementsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EF950D129171783004FD577 /* ConditionalStatementsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		7EF950C5291711C5004FD577 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7EF950C8291711C5004FD577 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7EF950CF29171481004FD577 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		7EF950D129171783004FD577 /* ConditionalStatementsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatementsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		7EF950B5291711C4004FD577 = {
 			isa = PBXGroup;
 			children = (
+				7EF950D129171783004FD577 /* ConditionalStatementsBootcamp.swift */,
 				7EF950C0291711C4004FD577 /* SwiftfulThinkingBootcamp */,
 				7EF950BF291711C4004FD577 /* Products */,
 			);
@@ -143,6 +146,7 @@
 				7EF950C4291711C4004FD577 /* ContentView.swift in Sources */,
 				7EF950D029171481004FD577 /* BindingBootcamp.swift in Sources */,
 				7EF950C2291711C4004FD577 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				7EF950D229171783004FD577 /* ConditionalStatementsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
