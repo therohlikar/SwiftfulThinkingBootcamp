@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7EDE24CF29179E2E00312D81 /* AnimationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EDE24CE29179E2E00312D81 /* AnimationsBootcamp.swift */; };
 		7EF950C2291711C4004FD577 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EF950C1291711C4004FD577 /* SwiftfulThinkingBootcampApp.swift */; };
 		7EF950C4291711C4004FD577 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EF950C3291711C4004FD577 /* ContentView.swift */; };
 		7EF950C6291711C5004FD577 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7EF950C5291711C5004FD577 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7EDE24CE29179E2E00312D81 /* AnimationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsBootcamp.swift; sourceTree = "<group>"; };
 		7EF950BE291711C4004FD577 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EF950C1291711C4004FD577 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		7EF950C3291711C4004FD577 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -41,6 +43,7 @@
 		7EF950B5291711C4004FD577 = {
 			isa = PBXGroup;
 			children = (
+				7EDE24CE29179E2E00312D81 /* AnimationsBootcamp.swift */,
 				7EF950D329171C53004FD577 /* TernaryBootcamp.swift */,
 				7EF950D129171783004FD577 /* ConditionalStatementsBootcamp.swift */,
 				7EF950C0291711C4004FD577 /* SwiftfulThinkingBootcamp */,
@@ -151,6 +154,7 @@
 				7EF950D029171481004FD577 /* BindingBootcamp.swift in Sources */,
 				7EF950C2291711C4004FD577 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				7EF950D229171783004FD577 /* ConditionalStatementsBootcamp.swift in Sources */,
+				7EDE24CF29179E2E00312D81 /* AnimationsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
