@@ -38,10 +38,13 @@ struct SheetsBootcamp: View {
 struct SecondScreen: View {
     
     @Environment(\.dismiss) private var dismiss
+    @Environment(\.isPresented) private var isPresented
+    
+    @State var bgColor: Color = .red
     
     var body: some View{
         ZStack(alignment: .topTrailing){
-            Color.red
+            bgColor
                 .edgesIgnoringSafeArea(.all)
             
             Button {
