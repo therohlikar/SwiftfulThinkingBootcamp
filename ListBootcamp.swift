@@ -22,14 +22,26 @@ struct ListBootcamp: View {
                 Section {
                     ForEach(fruits, id: \.self) { fruit in
                         Text(fruit.capitalized)
+                            .swipeActions {
+                                Button {
+                                    fruits.append("I AM BETTER THAN YOU")
+                                } label: {
+                                    Image(systemName: "mappin.circle")
+                                }
+                                .tint(.purple)
+
+                                Button {
+                                    fruits.remove(at: fruits.firstIndex(of: fruit)!)
+                                } label: {
+                                    Label("Delete", systemImage: "trash")
+                                }
+                                .tint(.red)
+                            }
                     }
-                    .onDelete(perform: removeRow)
                     .onMove { indexSet, newIndex in
                         fruits.move(fromOffsets: indexSet, toOffset: newIndex)
                     }
-                    .listRowBackground(
-                        Color.pink
-                    )
+                    
                 } header: {
                     Text("Fruits")
                 }
@@ -54,7 +66,6 @@ struct ListBootcamp: View {
                 }
             }
         }
-        .tint(Color.black)
     }
     
     var addButton: some View{
