@@ -26,6 +26,7 @@
 		96E3CBCC293903EB002348CE /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBCB293903EB002348CE /* TextEditorBootcamp.swift */; };
 		96E3CBCE2939063B002348CE /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBCD2939063B002348CE /* ToggleBootcamp.swift */; };
 		96E3CBD02939177D002348CE /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBCF2939177D002348CE /* PickerBootcamp.swift */; };
+		96E3CBD229391CD6002348CE /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBD129391CD6002348CE /* ColorPickerBootcamp.swift */; };
 		96F504A5293288FE006462C7 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F504A4293288FE006462C7 /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -50,6 +51,7 @@
 		96E3CBCB293903EB002348CE /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBCD2939063B002348CE /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBCF2939177D002348CE /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
+		96E3CBD129391CD6002348CE /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		96F504A4293288FE006462C7 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,6 +69,7 @@
 		7EF950B5291711C4004FD577 = {
 			isa = PBXGroup;
 			children = (
+				96E3CBD129391CD6002348CE /* ColorPickerBootcamp.swift */,
 				96E3CBCD2939063B002348CE /* ToggleBootcamp.swift */,
 				96E3CBCF2939177D002348CE /* PickerBootcamp.swift */,
 				96F504A4293288FE006462C7 /* ListBootcamp.swift */,
@@ -200,6 +203,7 @@
 				7EF950C2291711C4004FD577 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				969C2CEC292FAD6A00CB3D15 /* SheetsBootcamp.swift in Sources */,
 				96F504A5293288FE006462C7 /* ListBootcamp.swift in Sources */,
+				96E3CBD229391CD6002348CE /* ColorPickerBootcamp.swift in Sources */,
 				7EF950D229171783004FD577 /* ConditionalStatementsBootcamp.swift in Sources */,
 				96E3CBD02939177D002348CE /* PickerBootcamp.swift in Sources */,
 				7EDE24CF29179E2E00312D81 /* AnimationsBootcamp.swift in Sources */,
