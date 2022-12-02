@@ -29,6 +29,7 @@
 		96E3CBD229391CD6002348CE /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBD129391CD6002348CE /* ColorPickerBootcamp.swift */; };
 		96E3CBD429393641002348CE /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBD329393641002348CE /* DatePickerBootcamp.swift */; };
 		96E3CBD62939401F002348CE /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBD52939401F002348CE /* StepperBootcamp.swift */; };
+		96E3CBD8293A496D002348CE /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBD7293A496D002348CE /* SliderBootcamp.swift */; };
 		96F504A5293288FE006462C7 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F504A4293288FE006462C7 /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		96E3CBD129391CD6002348CE /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBD329393641002348CE /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBD52939401F002348CE /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
+		96E3CBD7293A496D002348CE /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		96F504A4293288FE006462C7 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,6 +75,7 @@
 		7EF950B5291711C4004FD577 = {
 			isa = PBXGroup;
 			children = (
+				96E3CBD7293A496D002348CE /* SliderBootcamp.swift */,
 				96E3CBD52939401F002348CE /* StepperBootcamp.swift */,
 				96E3CBD129391CD6002348CE /* ColorPickerBootcamp.swift */,
 				96E3CBD329393641002348CE /* DatePickerBootcamp.swift */,
@@ -203,6 +206,7 @@
 				96E3CBCA2937F396002348CE /* TextfieldBootcamp.swift in Sources */,
 				7EF950C4291711C4004FD577 /* ContentView.swift in Sources */,
 				96E3CBC62936BF29002348CE /* ActionsheetBootcamp.swift in Sources */,
+				96E3CBD8293A496D002348CE /* SliderBootcamp.swift in Sources */,
 				96E3CBD62939401F002348CE /* StepperBootcamp.swift in Sources */,
 				7EDE24D32917DCBA00312D81 /* TransitionBootcamp.swift in Sources */,
 				96E3CBC82936C5B8002348CE /* ContextMenuBootcamp.swift in Sources */,
