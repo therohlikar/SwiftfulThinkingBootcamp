@@ -40,6 +40,9 @@
 		96E3CBE829414BFE002348CE /* ViewModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBE729414BFE002348CE /* ViewModelBootcamp.swift */; };
 		96E3CBEA29426D9D002348CE /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBE929426D9D002348CE /* EnvironmentObjectBootcamp.swift */; };
 		96E3CBEC2942B405002348CE /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBEB2942B405002348CE /* AppStorageBootcamp.swift */; };
+		96E3CBEF29434090002348CE /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBEE29434090002348CE /* IntroView.swift */; };
+		96E3CBF129434321002348CE /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBF029434321002348CE /* OnboardingView.swift */; };
+		96E3CBF32943512E002348CE /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBF22943512E002348CE /* ProfileView.swift */; };
 		96F504A5293288FE006462C7 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F504A4293288FE006462C7 /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -78,6 +81,9 @@
 		96E3CBE729414BFE002348CE /* ViewModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBE929426D9D002348CE /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBEB2942B405002348CE /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
+		96E3CBEE29434090002348CE /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		96E3CBF029434321002348CE /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		96E3CBF22943512E002348CE /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		96F504A4293288FE006462C7 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,6 +130,7 @@
 				7EF950D129171783004FD577 /* ConditionalStatementsBootcamp.swift */,
 				969C2CEB292FAD6A00CB3D15 /* SheetsBootcamp.swift */,
 				969C2CED292FB0D800CB3D15 /* PopOverBootcamp.swift */,
+				96E3CBED29434080002348CE /* Onboarding Views */,
 				7EF950C0291711C4004FD577 /* SwiftfulThinkingBootcamp */,
 				7EF950BF291711C4004FD577 /* Products */,
 			);
@@ -155,6 +162,16 @@
 				7EF950C8291711C5004FD577 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		96E3CBED29434080002348CE /* Onboarding Views */ = {
+			isa = PBXGroup;
+			children = (
+				96E3CBEE29434090002348CE /* IntroView.swift */,
+				96E3CBF029434321002348CE /* OnboardingView.swift */,
+				96E3CBF22943512E002348CE /* ProfileView.swift */,
+			);
+			path = "Onboarding Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,14 +256,17 @@
 				96E3CBDE293EABED002348CE /* DocumentationBootcamp.swift in Sources */,
 				96E3CBC62936BF29002348CE /* ActionsheetBootcamp.swift in Sources */,
 				96E3CBE629407363002348CE /* ModelBootcamp.swift in Sources */,
+				96E3CBF32943512E002348CE /* ProfileView.swift in Sources */,
 				96E3CBD8293A496D002348CE /* SliderBootcamp.swift in Sources */,
 				96E3CBE829414BFE002348CE /* ViewModelBootcamp.swift in Sources */,
 				96E3CBE4294070E3002348CE /* TapGestureBootcamp.swift in Sources */,
+				96E3CBF129434321002348CE /* OnboardingView.swift in Sources */,
 				96E3CBD62939401F002348CE /* StepperBootcamp.swift in Sources */,
 				96E3CBE0293F4309002348CE /* OnAppearBootcamp.swift in Sources */,
 				7EDE24D32917DCBA00312D81 /* TransitionBootcamp.swift in Sources */,
 				96E3CBC82936C5B8002348CE /* ContextMenuBootcamp.swift in Sources */,
 				96E3CBDC293D230D002348CE /* DarkModeBootcamp.swift in Sources */,
+				96E3CBEF29434090002348CE /* IntroView.swift in Sources */,
 				7EF950D029171481004FD577 /* BindingBootcamp.swift in Sources */,
 				7EF950C2291711C4004FD577 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				969C2CEC292FAD6A00CB3D15 /* SheetsBootcamp.swift in Sources */,
