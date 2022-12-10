@@ -48,6 +48,7 @@
 		96E3CBF92944A5E6002348CE /* TextSelectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBF82944A5E6002348CE /* TextSelectionBootcamp.swift */; };
 		96E3CBFB294523D5002348CE /* ButtonStylesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBFA294523D5002348CE /* ButtonStylesBootcamp.swift */; };
 		96E3CBFD29452EE1002348CE /* ListSwipeActionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBFC29452EE1002348CE /* ListSwipeActionsBootcamp.swift */; };
+		96E3CBFF294530CC002348CE /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBFE294530CC002348CE /* BadgesBootcamp.swift */; };
 		96F504A5293288FE006462C7 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F504A4293288FE006462C7 /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -94,6 +95,7 @@
 		96E3CBF82944A5E6002348CE /* TextSelectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBFA294523D5002348CE /* ButtonStylesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBFC29452EE1002348CE /* ListSwipeActionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootcamp.swift; sourceTree = "<group>"; };
+		96E3CBFE294530CC002348CE /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
 		96F504A4293288FE006462C7 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,6 +113,7 @@
 		7EF950B5291711C4004FD577 = {
 			isa = PBXGroup;
 			children = (
+				96E3CBFE294530CC002348CE /* BadgesBootcamp.swift */,
 				96E3CBFC29452EE1002348CE /* ListSwipeActionsBootcamp.swift */,
 				96E3CBF42944A148002348CE /* AsyncImageBootcamp.swift */,
 				96E3CBF62944A47D002348CE /* BackgroundMaterialsBootcamp.swift */,
@@ -277,6 +280,7 @@
 				96E3CBF32943512E002348CE /* ProfileView.swift in Sources */,
 				96E3CBF52944A148002348CE /* AsyncImageBootcamp.swift in Sources */,
 				96E3CBD8293A496D002348CE /* SliderBootcamp.swift in Sources */,
+				96E3CBFF294530CC002348CE /* BadgesBootcamp.swift in Sources */,
 				96E3CBE829414BFE002348CE /* ViewModelBootcamp.swift in Sources */,
 				96E3CBE4294070E3002348CE /* TapGestureBootcamp.swift in Sources */,
 				96E3CBF129434321002348CE /* OnboardingView.swift in Sources */,
