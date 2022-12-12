@@ -49,6 +49,7 @@
 		96E3CBFB294523D5002348CE /* ButtonStylesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBFA294523D5002348CE /* ButtonStylesBootcamp.swift */; };
 		96E3CBFD29452EE1002348CE /* ListSwipeActionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBFC29452EE1002348CE /* ListSwipeActionsBootcamp.swift */; };
 		96E3CBFF294530CC002348CE /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CBFE294530CC002348CE /* BadgesBootcamp.swift */; };
+		96E3CC012947DC27002348CE /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96E3CC002947DC27002348CE /* FocusStateBootcamp.swift */; };
 		96F504A5293288FE006462C7 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F504A4293288FE006462C7 /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -96,6 +97,7 @@
 		96E3CBFA294523D5002348CE /* ButtonStylesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBFC29452EE1002348CE /* ListSwipeActionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsBootcamp.swift; sourceTree = "<group>"; };
 		96E3CBFE294530CC002348CE /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
+		96E3CC002947DC27002348CE /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
 		96F504A4293288FE006462C7 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				96E3CBFE294530CC002348CE /* BadgesBootcamp.swift */,
+				96E3CC002947DC27002348CE /* FocusStateBootcamp.swift */,
 				96E3CBFC29452EE1002348CE /* ListSwipeActionsBootcamp.swift */,
 				96E3CBF42944A148002348CE /* AsyncImageBootcamp.swift */,
 				96E3CBF62944A47D002348CE /* BackgroundMaterialsBootcamp.swift */,
@@ -289,6 +292,7 @@
 				7EDE24D32917DCBA00312D81 /* TransitionBootcamp.swift in Sources */,
 				96E3CBC82936C5B8002348CE /* ContextMenuBootcamp.swift in Sources */,
 				96E3CBDC293D230D002348CE /* DarkModeBootcamp.swift in Sources */,
+				96E3CC012947DC27002348CE /* FocusStateBootcamp.swift in Sources */,
 				96E3CBF72944A47D002348CE /* BackgroundMaterialsBootcamp.swift in Sources */,
 				96E3CBEF29434090002348CE /* IntroView.swift in Sources */,
 				7EF950D029171481004FD577 /* BindingBootcamp.swift in Sources */,
